@@ -1,0 +1,13 @@
+{
+    "name": "windbeast",
+    "description": "Driver for windbeast",
+    "license": "J",
+    "dependencies": {
+        "core": "*",
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "public": false
+}
