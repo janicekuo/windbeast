@@ -5,8 +5,8 @@ Driver for windbeast
 
 
 ## License
-*MIT
-*The code of ultrasonic was coded by Microsoft  
+* MIT
+* The code of ultrasonic was coded by Microsoft  
 https://github.com/Microsoft/pxt-sonar
 
 ## Supported targets
