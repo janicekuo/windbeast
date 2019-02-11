@@ -1,4 +1,5 @@
-//% color=#f44242 icon="\uf0ad" block="windbeast"
+//% weight=0 color=#f44242 icon="\uf0ad" block="windbeast"
+
 namespace windbeast {
     
     //% blockId=sonar_ping block="ping trig %trig|echo %echo|unit %unit"
