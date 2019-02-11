@@ -1,7 +1,7 @@
 {
     "name": "windbeast",
     "description": "Driver for windbeast",
-    "license": "J",
+    "license": "MIT",
     "dependencies": {
         "core": "*",
     },
@@ -9,5 +9,5 @@
         "README.md",
         "main.ts"
     ],
-    "public": false
+    "public": true
 }
