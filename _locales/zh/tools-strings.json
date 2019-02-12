@@ -1,0 +1,8 @@
+{
+    "windbeast.foreward|block": "風力瘦前進|轉速(0~1023) %power",
+	"windbeast.backward|block": "風力瘦後退|轉速(0~1023) %power",
+	"windbeast.rightward|block": "風力瘦右轉|轉速(0~1023) %power",
+	"windbeast.leftward|block": "風力瘦左轉|轉速(0~1023) %power",
+	"windbeast.stop|block": "風力瘦停車"
+}
+}
