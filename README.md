@@ -1,4 +1,4 @@
-# dht11
+# windbeast
 
 Driver for windbeast
 
