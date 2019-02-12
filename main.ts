@@ -1,5 +1,5 @@
 //% weight=0 color=#1E90EF icon="\uf5e4"
-namespace KSB037 {
+namespace windbeast {
     /**
     * 左右馬達同時正轉
     */
