@@ -1,4 +1,4 @@
-//% weight=0 color=#1E90EF icon="\uf5e4"
+//% weight=0 color=#1E90EF icon="\uf72e"
 namespace windbeast {
     /**
     * 左右馬達同時正轉
