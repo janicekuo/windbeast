@@ -1,7 +1,0 @@
-{
-        "windbeast.foreward|block": "風力獸前進|轉速(0~1023) %power",
-	"windbeast.backward|block": "風力獸後退|轉速(0~1023) %power",
-	"windbeast.rightward|block": "風力獸右轉|轉速(0~1023) %power",
-	"windbeast.leftward|block": "風力獸左轉|轉速(0~1023) %power",
-	"windbeast.stop|block": "風力獸停車"
-}
