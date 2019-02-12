@@ -1,13 +1,15 @@
 {
     "name": "windbeast",
-    "description": "Driver for windbeast",
+    "version":"0.0.1",
+    "description": "Extension for windbeast",
     "license": "MIT",
     "dependencies": {
         "core": "*",
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts" ,
+        "_locales/zh/windbeast-string.json"
     ],
     "public": true
 }
